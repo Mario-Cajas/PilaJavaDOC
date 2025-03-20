@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"TareaPila","l":"PilaEnteros"},{"p":"TareaPila","l":"PilaG"},{"p":"TareaPila","l":"Prueba"}];updateSearchResults();
