@@ -1,7 +1,7 @@
 package TareaPila;
 /**
  *  Implemento una pila guarda valores enteros
- *  @author Sergio
+ *  @author Mario Cajas
  *  @version 1.0
  */
 public class PilaEnteros {
